@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80" role="img" aria-label="Logotipo">
+  <circle cx="40" cy="40" r="37" fill="#111111" stroke="#FFFFFF" stroke-width="3"/>
+  <circle cx="40" cy="40" r="31" fill="none" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1"/>
+  <path d="M40 19 L57 26 L57 43 C57 52 49 58 40 62 C31 58 23 52 23 43 L23 26 Z"
+        fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M32 33 L40 48 L48 33" fill="none" stroke="#FFFFFF" stroke-width="4"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="92" y="41" fill="#ffffff" font-family="ui-sans-serif, system-ui, sans-serif"
+        font-size="24" font-weight="800" letter-spacing="1.5">TU NEGOCIO</text>
+  <text x="93" y="59" fill="#FFFFFF" font-family="ui-monospace, monospace"
+        font-size="10.5" letter-spacing="3.2">WRAP · PPF · DETALLADO</text>
+</svg>
